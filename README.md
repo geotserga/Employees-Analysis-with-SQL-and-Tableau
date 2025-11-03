@@ -1,9 +1,9 @@
 # Employees Analysis with SQL and Tableau
 
-This project was completed as part of the "SQL - MySQL for Data Analytics and Business Intelligence" Udemy course. It demonstrates end-to-end data analytics skills, from database querying using MySQL to creating interactive visualizations in Tableau. The analysis explores company employee data including gender distribution, salary trends, and departmental insights from 1989 to 2003.
+This project was completed as part of the "SQL - MySQL for Data Analytics and Business Intelligence" Udemy course. It demonstrates end-to-end data analytics skills, from database querying using MySQL to creating interactive visualizations in Tableau. The analysis explores company employee data, including gender distribution, salary trends, and departmental insights from 1989 to 2003.
 
 🔗 Live Dashboard: 
-[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/georgia.tserga/viz/CompanyEmployeesAnalysis-SQL/Dashboard1)
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/georgia.tserga/viz/CompanyEmployeesAnalysis-SQLdata/Dashboard1)
 
 
 
